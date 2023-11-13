@@ -1,2 +1,3 @@
 # WorldCup_prediction
-Course Project 3(Introduction to Data Mining)
+
+## Task and documentation are mentioned into individual branch.
