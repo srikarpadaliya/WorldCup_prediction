@@ -1,7 +1,7 @@
 # WorldCup_prediction
 In this task we are going to predict top 5 batsmen with most runs in World Cup 2023.
 
-![ICC Men's Cricket World Cup 2023](./images/World_Cup_2023.jpeg)
+![ICC Men's Cricket World Cup 2023](images/World_Cup_2023.jpeg)
 
 ## Dataset Details
 
@@ -32,7 +32,7 @@ DATASET:
 15. **Venue:** Venue of the match
 
 ## Model Results
-![Top 5 batsmen](./images/top_5_batsmen.png)
+![Top 5 batsmen](images/top_5_batsmen.png)
 
 ## Contributor
 
