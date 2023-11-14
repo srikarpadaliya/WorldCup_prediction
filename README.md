@@ -48,14 +48,16 @@ This dataset has been created especially to help predict the 11 members of each 
 
 ## Results
 #### Team India
-![Team India](image-ind-team.png)
+![image-ind-team](https://github.com/srikarpadaliya/WorldCup_prediction/assets/58455626/7dac4258-ecce-4cad-98c6-e202c634e524)
 
-![Play-in 11 for Team India](image-ind.png)
+![image-ind](https://github.com/srikarpadaliya/WorldCup_prediction/assets/58455626/5e404671-d34e-465a-ad0a-d38efc57ef4a)
 
 
 
 #### Team South Africa
-![Team South-Africa](image-sa-team.png)
+![image-sa-team](https://github.com/srikarpadaliya/WorldCup_prediction/assets/58455626/66e68cc3-fb16-45a6-b82f-e59384b4781c)
 
-![Play-in 11 for Team India](image-sa.png)
+
+![image-sa](https://github.com/srikarpadaliya/WorldCup_prediction/assets/58455626/b0472559-05a0-41ee-bad2-97d14441c16e)
+
 
