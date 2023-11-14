@@ -61,5 +61,5 @@ This dataset has been created especially to help predict the 11 members of each 
 ![image-sa](https://github.com/srikarpadaliya/WorldCup_prediction/assets/58455626/b0472559-05a0-41ee-bad2-97d14441c16e)
 
 
-#Contributors
-Vrishin Shah (202101094)
+# Contributors
+### Vrishin Shah (202101094)
