@@ -29,19 +29,19 @@ This project consists of 5 parts:
 
 # 2. Data Cleaning
 
-![This is an Image of the head of the dataset.]()
+![This is an Image of the head of the dataset.](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/dataset_head.png)
 
 The above dataset needs to be updated since the analysis would have an obselete dataset. Adding data for matches Bangladesh vs Australia (11 Nov. 2023), England vs Pakistan (11 Nov. 2023) and India vs Netherlands (12 Nov. 2023).
 
 Moreover, we made many changes to this dataset like converting overs to balls and merging the old dataframe with the new one. We got the selected list of bowlers for our analysis.
 
-![This is an Image of the selected list of bowlers after Data Cleaning.]()
+![This is an Image of the selected list of bowlers after Data Cleaning.](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/selected_bowlers_list.png)
 
 # 3. Data Visualization
 
-![This is an Image of the Economy Rate of the Bowlers.]()
-![This is an Image of the Bowling Strike Rate of the Bowlers.]()
-![This is an Image of the Bowling Average Rate of the Bowlers.]()
+![This is an Image of the Economy Rate of the Bowlers.](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/bowling_economy_rate.png)
+![This is an Image of the Bowling Strike Rate of the Bowlers.](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/bowling_strike_rate.png)
+![This is an Image of the Bowling Average Rate of the Bowlers.](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/bowling_average.png)
 
 It is self-understandable that, as there are only a few matches left in the world cup, there are very high chances that only those players who has most wickets till now, only one of them can be the batsman with most wickets.
 
@@ -49,17 +49,18 @@ So, making the list of batsman who has wickets more than 10.
 
 Also, only India, Australia, New Zealand, and South Africa will be in the semi-final. So, bowlers belonging to this team, can gain addtional wickets, other then this team, there are no chances that there batsmen will score more than that they currently have.
 
-![This is an Image of the Scatter Plot of the best bowlers.]()
+![This is an Image of the Scatter Plot of the best bowlers.](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/scatter_plot_best_bowlers.png)
 
 From this graph, we can see that these will be top 5 wicket takers from these set of bowlers.
 
 # 4. Pre-Processing
 We have made a new dataframe consisting of 'date' feature with only the selected list of bowlers from the data cleaning section that we achieved.
 
-We also sorted the new datafram using 'Label Encoding'.
+We also sorted the new dataframe using 'Label Encoding'.
 
 # 5. Modeling
-It is confirmed that, the Semi-Finale will matches will happen between India vs. New Zealand and South Africa vs. Australia.
+It is confirmed that, the Semi-Finale will matches will happen between India vs. New Zealand and South Africa vs. Australia from this plot training graph:
+![This is the Screenshot of the Model Results](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/plot_training_history.png)
 
 As per the prediction in task-2, the **Finale** will happen between **India and South Africa**.
 
@@ -67,7 +68,7 @@ We are going to predict the wickets for bowler in these 4 teams, from my **selec
 
 This are the top 5 bowlers predicted:
 
-![This is the Screenshot of the Model Results]()
+![This is the Screenshot of the Model Results](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/top_5_bowlers.png)
 
 # Conclusion
 Considering semi final match scores for (South Africa, Australia) and (India, New Zealand) and final match between India and South Africa players, we got the top five wicket takers of the tournament.
