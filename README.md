@@ -38,6 +38,8 @@ DATASET 2:
 2. **Team:** Name of Team
 3. **Points:** Overall performance points of team
 
+**Rest documentation in present in python notebook.**
+
 ## Contributor
 
 Srikar Padaliya - 202101095
