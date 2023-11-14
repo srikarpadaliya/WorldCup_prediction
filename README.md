@@ -30,15 +30,10 @@ DATASET:
 14. **Wicket_type:** How did the batsman get out (i.e., catch out, run out, etc.)
 15. **Venue:** Venue of the match
 
-## Model Results
-1. Virat Kohli - India - 778 runs
-2. Quinton de Kock - South Africa - 687 runs
-3. Rachin Ravindra - New Zealand - 640 runs
-4. Rohit Sharma - India - 622 runs
-5. David Warner - Australia - 573 runs
+## Results
+As per the prediction of the model, Virat Kohli from team India will score the highest number of runs in ICC Men's World Cup 2023, with an expected score of 778 runs.
 
 ## Contributor
-
 Krupesh Parmar - 202101160
 
    
