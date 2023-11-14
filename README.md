@@ -68,7 +68,7 @@ We are going to predict the wickets for bowler in these 4 teams, from my **selec
 
 This are the top 5 bowlers predicted:
 
-![This is the Screenshot of the Model Results](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/top_5_bowlers.png)
+![This is the Screenshot of the Model Results](https://github.com/srikarpadaliya/WorldCup_prediction/blob/top_bowlers/Images/top_5_bowlers.jpg)
 
 # Conclusion
 Considering semi final match scores for (South Africa, Australia) and (India, New Zealand) and final match between India and South Africa players, we got the top five wicket takers of the tournament.
