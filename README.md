@@ -2,7 +2,7 @@
 
 ## About The Dataset
 
-I have crafted a custom dataset derived from ODI (One Day International) cricket matches, meticulously extracted and organized from the comprehensive cricketing data available on cricsheet.org. I have used modified script from Aadita Agarwal's [GitHub](https://github.com/aaditagarwal) to convert YAML to excel format.
+I have crafted a custom dataset derived from ODI (One Day International) cricket matches, meticulously extracted and organized from the comprehensive cricketing data available on cricsheet.org. I have used the modified script from Aadita Agarwal's [GitHub](https://github.com/aaditagarwal) to convert YAML to Excel format.
 
 
 ### **Features**
@@ -12,7 +12,7 @@ I have crafted a custom dataset derived from ODI (One Day International) cricket
 **team:** Name of the team player belongs to.<br>
 **innings:** The number of times the player has batted in matches, representing their opportunities to score runs.<br>
 **runs:** The total number of runs scored by the batsman across all their innings, indicating their overall batting performance.<br>
-**balls:** The total number of deliveries faced by the batsman, reflecting their involvement and time spent at the crease.<br>
+**balls:** The total number of deliveries the batsman faces, reflecting their involvement and time spent at the crease.<br>
 **average:** The mean value of runs scored per dismissal, offering a measure of the batsman's consistency and effectiveness.<br>
 **strike_rate:** The speed at which the batsman scores runs, calculated as the number of runs scored per 100 balls faced.<br>
 **centuries:** The number of times the batsman has scored 100 or more runs in a single inning, highlighting their ability to achieve high scores.<br>
@@ -26,7 +26,7 @@ I have crafted a custom dataset derived from ODI (One Day International) cricket
 **innings:** The number of times the player has bowled in matches, representing their opportunities to take wickets.<br>
  **runs:** The total number of runs conceded by the bowler, reflecting their effectiveness in limiting the opposition's scoring.<br>
  **balls:** The total number of deliveries bowled by the player, indicating their workload and contribution to the team's bowling efforts.<br>
- **wickets:** The total number of wickets taken by the bowler, showcasing their ability to dismiss opposing batsmen.<br>
+ **wickets:** The total number of wickets taken by the bowler showcasing their ability to dismiss opposing batsmen.<br>
  **extras:** Additional runs conceded through no-balls, wides, and byes, contributing to the overall runs given away by the bowler.<br>
  **average:** The mean value of runs conceded per wicket taken, providing a measure of the bowler's effectiveness in getting dismissals.<br>
  **strike_rate:** The rate at which the bowler takes wickets, calculated as the number of balls bowled per wicket taken.<br>
@@ -43,7 +43,7 @@ This dataset has been created especially to help predict the 11 members of each 
 **opposition:** The opposition team of the player's team.<br>
 **venue:** The location(In India) where the match took place.<br>
 **player_rating:** The player's ICC Rankings for ODI fetched from [here](https://www.icc-cricket.com/rankings/mens/player-rankings/odi).<br>
-**selected:** A boolean value which determines if the player played in The play-in 11 or not.
+**selected:** A boolean value that determines if the player played in The play-in 11 or not.
 
 
 ## Results
@@ -61,3 +61,5 @@ This dataset has been created especially to help predict the 11 members of each 
 ![image-sa](https://github.com/srikarpadaliya/WorldCup_prediction/assets/58455626/b0472559-05a0-41ee-bad2-97d14441c16e)
 
 
+#Contributors
+Vrishin Shah (202101094)
