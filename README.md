@@ -38,10 +38,6 @@ DATASET 2:
 2. **Team:** Name of Team
 3. **Points:** Overall performance points of team
 
-## Model Results
-
-   ![image](https://github.com/srikarpadaliya/WorldCup_prediction/assets/112422657/a96e8cb5-81a3-418f-9a4d-d85589d7571a)
-
 ## Contributor
 
 Srikar Padaliya - 202101095
